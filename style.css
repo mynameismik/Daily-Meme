@@ -1,6 +1,8 @@
 body {
     background-color: rgb(42, 153, 165); 
 }
-.flexbox {
-    display:flex;
+.menu{ color:black;
+    padding:0px;
+    margin: 0px;
+    
 }
