@@ -1,8 +1,26 @@
 body {
-    background-color: rgb(42, 153, 165); 
+    background-color:white
 }
-.menu{ color:black;
-    padding:0px;
-    margin: 0px;
-    
+.header{ 
+    background-color:rgb(86, 196, 254);
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title {
+    color: white;
+}
+.list {
+    color: white;
+    display: flex;
+}
+.list :hover {
+    color: black
+}
+.menustreepjes :hover{
+    color: white;
+}
+.test {
+    color: black;
 }
