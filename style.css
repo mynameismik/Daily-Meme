@@ -1,17 +1,8 @@
 body {
-  margin: 0px;
-  padding: 0px;
+    background-color: rgb(42, 153, 165); 
 }
-.header { background-color: purple;
-    size: 400;
-    padding:0px;}
-
-.html  {margin: 0px;}
-
-.titel{color: black;
-       margin: 0px;
-    }
-
-.menu {color:blue;}
-
-.en {margin: 0px;}
+.menu{ color:black;
+    padding:0px;
+    margin: 0px;
+    
+}
