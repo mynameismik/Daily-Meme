@@ -1,19 +1,29 @@
 body {
-  margin: 0px;
-  padding: 0px;
+  background-color: rgb(255, 255, 255); 
 }
-.header { background-color: purple;
-    size: 400px;
-    padding:0px;}
 
-.html  {margin: 0px;}
-
-.titel{color: black;
-       margin: 0px;
-    }
-
-.menu {color:blue;}
-
-.en {margin: 0px;}
-.buttons{color: black; 
-background-color: green;}
+.header{ 
+  background-color:rgb(86, 196, 254);
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  color: white;
+}
+.list {
+  color: white;
+  display: flex;
+}
+.list :hover {
+  color: black
+}
+.menustreepjes :hover{
+  color: white;
+}
+.test {
+  color: black;}
+  .list { list-style: none;
+     
+  }
