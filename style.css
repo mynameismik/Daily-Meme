@@ -1,8 +1,19 @@
 body {
-    background-color: rgb(42, 153, 165); 
+  margin: 0px;
+  padding: 0px;
 }
-.menu{ color:black;
-    padding:0px;
-    margin: 0px;
-    
-}
+.header { background-color: purple;
+    size: 400px;
+    padding:0px;}
+
+.html  {margin: 0px;}
+
+.titel{color: black;
+       margin: 0px;
+    }
+
+.menu {color:blue;}
+
+.en {margin: 0px;}
+.buttons{color: black; 
+background-color: green;}
