@@ -28,6 +28,10 @@ color: rgb(0, 0, 0);
 background-color:rgb(136, 232, 243);
 }
 
-.textbutton {
- background-color: rgb(136, 232, 243);
+.textbutton { 
+ background-color:  rgb(136, 232, 243) ;
+ display: flex; justify-content: center;
+
+
 }
+.button{margin:2px;}
