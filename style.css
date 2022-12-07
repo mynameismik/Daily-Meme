@@ -1,29 +1,33 @@
-body {
-  background-color: rgb(255, 255, 255); 
+
+
+  
+  
+ body { background-color: rgb(255, 255, 255);
+  margin: 0px;
+  
+  
+
+
+
+  }
+  .titel {color: rgb(0, 0, 0);
+  text-size-adjust: ;}
+  .upper {background-color: rgb(136, 232, 243);
+  margin: 0px;
+  padding-top: 30px;
+  float: ;
+
+
+  }
+  .img {block-size: 100px; 
+
+}
+  .search {height: 20px;
+ 
+color: rgb(0, 0, 0);
+background-color:rgb(136, 232, 243);
 }
 
-.header{ 
-  background-color:rgb(86, 196, 254);
-  color: black;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.textbutton {
+ background-color: rgb(136, 232, 243);
 }
-.title {
-  color: white;
-}
-.list {
-  color: white;
-  display: flex;
-}
-.list :hover {
-  color: black
-}
-.menustreepjes :hover{
-  color: white;
-}
-.test {
-  color: black;}
-  .list { list-style: none;
-     
-  }
