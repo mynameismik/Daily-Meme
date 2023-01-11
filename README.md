@@ -1,1 +1,1 @@
-ur mom lol
+shut the fuck up
