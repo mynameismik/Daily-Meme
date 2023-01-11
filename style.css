@@ -2,9 +2,10 @@
 
   
   
- body { background-color: beige;
+ body { background-color: ;
   margin: 0px;
-  
+  max-width: 600px;
+  outline-style: double;
   
 
 
@@ -16,10 +17,12 @@
   .upper {background-color: rgb(136, 232, 243);
   margin: 0px;
   padding-top: 30px;
+  max-width: 600px;
 }
 
 .upper1
   .img {block-size: 100px; 
+    
 
 }
   .search {height: 20px;
@@ -71,8 +74,9 @@ float: right;}
 }
 
 .mittel{justify-content: center;
-  border-style: double;
+  border-style: solid;
   margin: 10px;
+  background-color: #D9D9D9;
 
 
 }
@@ -80,4 +84,11 @@ float: right;}
 .text1 { justify-content: top ;
 
 
+}
+
+.meme1 {outline-style: solid;}
+
+.mittel2 {border-style: solid;
+margin: 10px;
+background-color: #D9D9D9;
 }
