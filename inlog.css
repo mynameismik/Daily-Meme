@@ -1,0 +1,14 @@
+.login{    
+background-color: rgb(56, 227, 222);
+outline-style: solid;
+
+}
+.button{
+    
+background-color:rgb(56, 227, 222);
+outline-style: dotted;
+margin: 200px;
+
+}
+
+body{background-color: aqua;}
