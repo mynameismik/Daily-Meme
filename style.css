@@ -40,9 +40,9 @@ background-color:rgb(136, 232, 243);
 
 }
 .button{margin-right: 40px;
+  outline-style: solid;
   
-  
-  background-color: rgb(205, 255, 253);
+  background-color: rgb(136, 232, 243);
   
   margin-bottom: 5px;   
 
